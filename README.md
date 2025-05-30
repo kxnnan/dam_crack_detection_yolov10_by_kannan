@@ -83,7 +83,5 @@ For questions or feedback, please raise an issue in the GitHub repository or con
 
 ---
 
-✅ You can **copy and paste** this into your GitHub repository’s `README.md` file. Let me know if you’d like it as a downloadable file too.
-
 
 
